@@ -70,6 +70,8 @@ module.exports = {
     './_build/assets/css/foundation.css.map',
     './_build/assets/css/foundation-float.css',
     './_build/assets/css/foundation-float.css.map',
+    './_build/assets/css/foundation-flex.css',
+    './_build/assets/css/foundation-flex.css.map',
     './_build/assets/css/foundation-prototype.css',
     './_build/assets/css/foundation-prototype.css.map',
     './_build/assets/css/foundation-rtl.css',
